@@ -1,5 +1,6 @@
 # ReGo
 Useful tools, websites and applications for cyber security enthusiast, programmers and IT professionals. 
+*I'm still adding and updating it so please be patient*
 
 ### Websites
 
