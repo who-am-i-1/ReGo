@@ -10,7 +10,7 @@ Useful tools, websites and applications for cyber security enthusiast, programme
 
 • [Iplogger](https://iplogger.org/) [Tracking]
 
-• [DeHashed](https://www.dehashed.com/) [Bleached Databases]
+• [DeHashed](https://www.dehashed.com/) [Breached Databases]
 
 • [VirusTotal](https://www.virustotal.com/) [Malware Scanning]
 
@@ -53,4 +53,4 @@ Useful tools, websites and applications for cyber security enthusiast, programme
 
 • [Virtual Android](https://play.google.com/store/apps/details?id=com.pspace.vandroid) [Android Clonner]
 
-
+• [Luck Patcher](https://www.luckypatchers.com/download/) [App modifier]
