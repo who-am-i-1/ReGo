@@ -93,6 +93,7 @@ Useful tools, websites and applications for cyber security enthusiast, programme
 82. **SANS DFIR Resources**: [digital-forensics.sans.org/community/downloads
 
 ](https://digital-forensics.sans.org/community/downloads) - Digital Forensics Resources
+
 83. **DFIR Training**: [dfir.training](https://www.dfir.training) - Digital Forensics Training
 84. **SIFT Workstation**: [siftsecurity.org/sift](https://siftsecurity.org/sift) - Digital Forensics Distribution
 85. **Pluralsight Free Courses**: [pluralsight.com](https://www.pluralsight.com) - IT and Development Courses
